@@ -1,4 +1,4 @@
-import random
+import random,math
 print("Hello What's your name?")
 name = input()
 print('Between what two numbers would you like to guess the magic number' + name + '?')
